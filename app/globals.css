@@ -1,3 +1,36 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html {
+    background-color: #1a1625;
+}
+
+.cl-card {
+    background-color: #1a1625;
+}
+
+.cl-internal-rscu79 {
+    color: #c3c3c3;
+}
+
+.cl-internal-b3fm6y{
+    display: none;
+}
+
+.cl-formButtonPrimary {
+    background-color: #5e43f3;
+}
+
+.cl-formFieldInput input, .cl-formFieldInput:focus, input{
+    color: #a494ff;
+    background: #282828;
+}
+
+.cl-headerSubtitle {
+    display: none;
+}
+
+nav {
+    background: #5e43f3 !important;
+}
